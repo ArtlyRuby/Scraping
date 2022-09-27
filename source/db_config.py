@@ -1,0 +1,6 @@
+DB_NAME = 'postgresql'
+DB_DRIVER = 'psycopg2'
+DB_USERNAME = 'postgres'
+DB_PASSWORD = '123b123'
+DB_IP = 'localhost'
+DB_TABLENAME = 'houses_scrap'
